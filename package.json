@@ -1,0 +1,10 @@
+{
+  "name": "create-react-weston",
+  "version": "0.1.0",
+  "description": "Create a react project with basic configuration",
+  "bin": "./bin/cli.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
